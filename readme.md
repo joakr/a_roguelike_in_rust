@@ -1,4 +1,6 @@
-# Logically distinct entities (modules)
+# Overview of individual modules -- roadmap
+
+## Logically distinct entities (modules)
 1. Create new `.rs` file (module)
 2. Open main.rs and add the new module to the prelude
 3. Return to module and add new structure/constructor
